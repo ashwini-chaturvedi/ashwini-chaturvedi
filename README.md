@@ -1,27 +1,28 @@
-## 💫 About Me
-🚀 **<Your Role> | <Primary Tech> | <Interest Area>**
+# 💫 About Me
+🚀 **Backend Engineer | Spring Boot | DevOps Enthusiast**
 
-I am a **<your main skill, e.g., Java Spring Boot developer>** with experience in building  
-**<type of systems – REST APIs / Microservices / Cloud-native apps>**.
+I am a **Java Spring Boot developer** with experience in building  
+**scalable REST APIs and microservices**.
 
-Currently, I’m learning **<current focus: Docker, Kubernetes, DevOps, etc.>** to strengthen my skills in  
-**scalable deployments and system reliability**.
+Currently learning **Docker, Kubernetes, and CI/CD pipelines** to strengthen  
+my skills in **cloud-native and production-grade systems**.
 
-- 🔹 Strong in: <Core skills – APIs, Auth, Databases, Messaging, etc.>
-- 🔹 Interested in: <System Design / DevOps / Cloud / Performance>
-- 🔹 Open to: <Internships / Full-time roles / Collaboration>
+- 🔹 Backend: Java, Spring Boot, Hibernate, JWT
+- 🔹 Databases: MySQL, PostgreSQL, MongoDB
+- 🔹 Messaging: RabbitMQ
+- 🔹 Cloud & DevOps: AWS, GCP, Docker, Kubernetes
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](<Your LinkedIn URL>)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<your-email@gmail.com>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwini%20Chaturvedi-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
 
 ## 💻 Tech Stack
 
-### 🚀 Backend & Frameworks
+### 🚀 Backend
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
@@ -44,27 +45,27 @@ Currently, I’m learning **<current focus: Docker, Kubernetes, DevOps, etc.>** 
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🛠 Tools & Platforms
+### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=<your-username>&theme=dark&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&theme=dark&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=<your-username>&theme=radical&no-frame=false&no-bg=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical)
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=<your-username>&icon=0&color=0)
+![Profile Views](https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME)
