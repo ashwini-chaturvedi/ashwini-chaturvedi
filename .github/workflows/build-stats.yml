@@ -1,44 +1,44 @@
-# Save this file to: .github/workflows/build-stats.yml
-# in your GitHub profile repository (the one named ashwini-chaturvedi)
+# Save this to: .github/workflows/build-stats.yml
 
 name: Generate GitHub Stats SVGs
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily at midnight UTC
-  workflow_dispatch:        # Also allows manual trigger from Actions tab
+    - cron: "0 0 * * *"    # Runs daily at midnight UTC
+  workflow_dispatch:         # Manual trigger from Actions tab
   push:
     branches: [main]
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write       # Needed to commit the generated SVGs back
+      contents: write
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - name: Generate Overview Stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
+          filename: stats/overview.svg
+          user: ashwini-chaturvedi
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Kolkata
+          base_indepth: yes
 
-      - name: Generate Stats SVGs
-        uses: jstrieb/github-stats@master
-        env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          # Optional: exclude forked repos from stats
-          EXCLUDED: ""
-          # Optional: exclude specific repos
-          EXCLUDED_REPOS: ""
-
-      - name: Move generated files to /stats folder
-        run: |
-          mkdir -p stats
-          mv generated/overview.svg stats/overview.svg  || true
-          mv generated/languages.svg stats/languages.svg || true
-
-      - name: Commit & push updated stats
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add stats/
-          git diff --cached --quiet || git commit -m "chore: update github stats [skip ci]"
-          git push
+      - name: Generate Language Stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
+          filename: stats/languages.svg
+          user: ashwini-chaturvedi
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
+          config_timezone: Asia/Kolkata
