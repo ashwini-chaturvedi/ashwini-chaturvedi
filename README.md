@@ -97,16 +97,6 @@ mindset     : Ship fast. Break less. Learn always.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<!-- github-profile-trophy uses its own hosting, separate from readme-stats -->
-<img src="https://github-profile-trophy.vercel.app/?username=ashwini-chaturvedi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
-</div>
-
----
 
 ## 📈 Activity Graph
 
@@ -131,7 +121,7 @@ mindset     : Ship fast. Break less. Learn always.
 
 <div align="center">
 
-<img src="./assets/footer.svg" width="100%" alt="footer"/>
+<img src="./footer.svg" width="100%" alt="footer"/>
 
 *Thanks for visiting! Let's connect and build something great together.* 🚀
 
