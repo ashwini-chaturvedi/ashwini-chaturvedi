@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ashwini%20Chaturvedi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<!-- Header Banner (self-hosted SVG - always renders) -->
+<img src="./assets/header.svg" width="100%" alt="Ashwini Chaturvedi - Backend Engineer"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Scalable+REST+APIs+%F0%9F%9A%80;Microservices+Architecture+Enthusiast+%E2%9A%99%EF%B8%8F;Cloud-Native+%26+Production-Grade+Systems+%E2%98%81%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
@@ -9,11 +9,11 @@
 <br/>
 
 <!-- Profile views & social badges -->
-![Profile Views](https://visitcount.itsvg.in/api?id=ashwini-chaturvedi&icon=6&color=9&label=Profile%20Views)
+![Profile Views](https://komarev.com/ghpvc/?username=ashwini-chaturvedi&color=38bdf8&style=flat-square&label=Profile+Views)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwini-chaturvedi)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashwinichaturvedi8924@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 </div>
 
@@ -131,7 +131,7 @@ mindset     : Ship fast. Break less. Learn always.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="./assets/footer.svg" width="100%" alt="footer"/>
 
 *Thanks for visiting! Let's connect and build something great together.* 🚀
 
