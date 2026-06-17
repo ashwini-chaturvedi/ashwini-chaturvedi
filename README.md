@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner (self-hosted SVG - always renders) -->
-<img src="./assets/header.svg" width="100%" alt="Ashwini Chaturvedi - Backend Engineer"/>
+<img src="./header.svg" width="100%" alt="Ashwini Chaturvedi - Backend Engineer"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Scalable+REST+APIs+%F0%9F%9A%80;Microservices+Architecture+Enthusiast+%E2%9A%99%EF%B8%8F;Cloud-Native+%26+Production-Grade+Systems+%E2%98%81%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
