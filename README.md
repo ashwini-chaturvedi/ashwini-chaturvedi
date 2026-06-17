@@ -9,11 +9,11 @@
 <br/>
 
 <!-- Profile views & social badges -->
-![Profile Views](https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=6&color=9&label=Profile%20Views)
+![Profile Views](https://visitcount.itsvg.in/api?id=ashwini-chaturvedi&icon=6&color=9&label=Profile%20Views)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwini-chaturvedi)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashwinichaturvedi8924@gmail.com)
 
 </div>
 
@@ -74,15 +74,24 @@ mindset     : Ship fast. Break less. Learn always.
 
 ## 📊 GitHub Stats
 
+> ⚡ Stats are auto-generated every 24h via GitHub Actions and committed directly to this repo — always fresh, never broken.
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" height="165"/>
+<img src="./stats/overview.svg" alt="Overview Stats"/>
+&nbsp;&nbsp;
+<img src="./stats/languages.svg" alt="Top Languages"/>
 
-<br/><br/>
+</div>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8" width="500"/>
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<!-- Uses github-readme-streak-stats.herokuapp.com — separate service, more stable than vercel -->
+<img src="https://streak-stats.demolab.com?user=ashwini-chaturvedi&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=6B7280" width="500"/>
 
 </div>
 
@@ -92,17 +101,18 @@ mindset     : Ship fast. Break less. Learn always.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+<!-- github-profile-trophy uses its own hosting, separate from readme-stats -->
+<img src="https://github-profile-trophy.vercel.app/?username=ashwini-chaturvedi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f97316" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwini-chaturvedi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f97316" width="100%"/>
 
 </div>
 
