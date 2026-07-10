@@ -29,10 +29,6 @@ currently   : Learning Docker · Kubernetes · CI/CD Pipelines
 mindset     : Ship fast. Break less. Learn always.
 ```
 
-> *"Any fool can write code that a computer can understand.  
-> Good programmers write code that humans can understand."* — Martin Fowler
-
----
 
 ## 🛠️ Tech Arsenal
 
