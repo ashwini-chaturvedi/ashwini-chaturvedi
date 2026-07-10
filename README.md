@@ -108,16 +108,6 @@ mindset     : Ship fast. Break less. Learn always.
 
 ---
 
-## 🎯 Currently Leveling Up
-
-```text
-🐳  Docker & Container Orchestration    ████████████░░░░   75%
-☸️  Kubernetes & Helm Charts            █████████░░░░░░░   55%
-🔁  CI/CD Pipelines (GitHub Actions)    ████████████░░░░   70%
-☁️  AWS Solutions Architecture          ███████░░░░░░░░░   45%
-```
-
----
 
 <div align="center">
 
